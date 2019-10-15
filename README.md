@@ -14,13 +14,13 @@ complete game, we would expand it a great deal, and probably give the player a
 whole world to explore. But for this project, the idea is to focus on some key
 things that we need if want to make a working game:
 
-	- The game gives players a description of what's happening, and then asks them
+- The game gives players a description of what's happening, and then asks them
 to make a choice.
-	- Something different happens depending on the choice the player made.
-	- The game also includes some random factors, so that it's a little different each
+- Something different happens depending on the choice the player made.
+- The game also includes some random factors, so that it's a little different each
 time.
-	- The game has conditions for winning and losing.
-	- When the game is over, it asks if the player wants to play again.
+- The game has conditions for winning and losing.
+- When the game is over, it asks if the player wants to play again.
   
 These are the key features that your project will need to have in order to make it
 into a playable game. We'll go over each of them in more detail below.
