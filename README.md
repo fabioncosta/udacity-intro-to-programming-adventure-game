@@ -133,10 +133,10 @@ it can become boring and predictable.
 
 There are all sorts of ways you could use randomness in your game. Here are just a few possibilities:
 
-	•	In the example game, the enemy creature is selected randomly each time they play. Sometimes it's a pirate,
+- In the example game, the enemy creature is selected randomly each time they play. Sometimes it's a pirate,
   sometimes it's a troll, and so on.
-	•	You could do something similar to randomize which weapons or magical items the player encounters.
-	•	You could include a combat simulation in which the player and enemy deal random amounts of damage to one
+- You could do something similar to randomize which weapons or magical items the player encounters.
+- You could include a combat simulation in which the player and enemy deal random amounts of damage to one
   another (you may remember that we did something like this earlier in the course).
 
 All of these can be done using Python's random module and the random.choice and random.randint functions that
